@@ -23,7 +23,7 @@
 
 <img width="1440" alt="Screen Shot 2021-11-30 at 1 03 06 PM" src="https://user-images.githubusercontent.com/93801125/144123045-4d71adda-9b42-4cd4-afea-a85da159cbe0.png">
 
-### As you can also see with the color coding imbedded in the code, you can easily tell which Ticker had gain and which had loss.  In bot years, "ENPH" and "RUN" both had gain, with "ENPH" doing the best between the two.  "DQ", which is where Steve's parents want to invest, Did well in 2017, but had a big loss in 2018.  Suggesting a change to either "ENPH" or "Run" would be advisable.
+### As you can also see with the color coding imbedded in the code, you can easily tell which Ticker had gain and which had loss.  In both years, "ENPH" and "RUN" both had gain, with "ENPH" doing the best between the two.  "DQ", which is where Steve's parents want to invest, Did well in 2017, but had a big loss in 2018.  Suggesting a change to either "ENPH" or "Run" would be advisable.
 
 
 ## Summary
